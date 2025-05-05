@@ -213,4 +213,5 @@ flowchart TB
 
 ## Authors
 
-- Térence Barbotin
+- Maxime LOMBARDO
+- Joël MBIAPA
